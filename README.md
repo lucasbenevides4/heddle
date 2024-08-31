@@ -17,8 +17,6 @@
 
 # About projecto
 
-http://127.0.0.1:5500/12-project-huddle/index.html
-
 Esta é uma solução para o desafio [pagina de destino Huddle com seção intodutória única no Frontend Mentor] (https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 O intuito é colocar nosso aprendizado em ação para aprimorar nosso conhecimento do curso **Dev em Dobro**, organizado pela [DevQuest] (https://dev-em-dobro.ticto.club/signin?redirect=/content/1806/module/9178/lesson/25478 "Site Dev Quest").
