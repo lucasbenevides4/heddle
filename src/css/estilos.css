@@ -1,0 +1,73 @@
+body{
+    background: url("../images/bg-desktop.svg") no-repeat;
+    background-color: var(--violet);
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    font-family: 'Poppins';
+    margin: 50px;
+}
+
+.header img{
+    width: 200px;
+}
+
+.main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.main .informacao{
+    margin: 40px;
+}
+
+.main .informacao h2{
+    margin-top: 10px;
+    font-size: 40px;
+    font-weight: 500;
+    width: 500px;
+}
+
+.main .informacao p{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 17px;
+    font-weight: 200;
+    width: 510px;
+}
+
+.main .informacao .registrar a{
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.main .informacao .registrar{
+    color: var(--violet);
+    font-size: 17px;
+    background-color: white;
+    padding: 10px 50px;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.main .informacao a:hover{
+    color: white;
+    background-color: var(--soft-magenta);
+}
+
+.footer .social{
+    display: flex;
+    justify-content: end;
+}
+
+.footer .social i{
+    color: white;
+    font-size: 25px;
+    transition: 0.3s;
+    margin: 8px;
+}
+
+.footer .social i:hover{
+    color: var(--soft-magenta);
+}

@@ -1,0 +1,49 @@
+@media(max-width: 430px){
+    body{
+        background: url("../images/bg-mobile.svg") no-repeat;
+        background-color: var(--violet);
+        background-size: cover;
+        height: 30vh;
+    }
+
+    .header img{
+        width: 150px;
+    }
+
+    .main{
+        display: block;
+    }
+
+    .main .mockups img{
+        width: 350px;
+    }
+
+    .main .informacao{
+        text-align: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .main .informacao h2{
+        font-size: 30px;
+        width: 330px;
+        margin-top: 50px;
+        margin-right: 0;
+    }
+
+    .main .informacao p{
+        width: 345px;
+        font-weight: 300;
+    }
+
+    .main .informacao .registrar{
+        align-items: center;
+        margin: auto;
+        padding: 10px 75px;
+    }
+
+    .footer .social{
+        justify-content: center;
+        margin-top: 70px;
+    }
+}
