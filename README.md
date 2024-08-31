@@ -1,5 +1,5 @@
-# Huddle
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Huddle - Dev Quest - Frontend Mentor
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasbenevides4/huddle/blob/main/LICENSE) 
 
 
 ## Index
@@ -15,13 +15,15 @@
 - [Author](#author)
 
 
-# About projecto
+# About project
 
-Esta é uma solução para o desafio [pagina de destino Huddle com seção intodutória única no Frontend Mentor] (https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-O intuito é colocar nosso aprendizado em ação para aprimorar nosso conhecimento do curso **Dev em Dobro**, organizado pela [DevQuest] (https://dev-em-dobro.ticto.club/signin?redirect=/content/1806/module/9178/lesson/25478 "Site Dev Quest").
+This is a solution to the challenge [Huddle landing page with unique introductory section on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-O projeto consiste em criar uma pagina Dev detalhada igual proposta pelo desafio, criando o modelo web e o modelo mobile.
+
+The aim is to put our learning into action to improve our knowledge of the **Dev em Dobro** course, organized by [DevQuest](https://dev-em-dobro.ticto.club/signin?redirect=/content/1806/module/9178/lesson/25478 "Site Dev Quest").
+
+The project consists of creating a detailed Dev page similar to that proposed by the challenge, creating the web model and the mobile model.
 
 
 ## Overview
@@ -35,14 +37,19 @@ Users should be able to:
 
 ### Screenshot
 
+#### Web
+
 ![](./src/images/Screenshot_modelo-web.png)
+
+#### Mobile
+
 ![](./src/images/Screenshot_modelo-mobile.png)
 
 ### Links
 
-- Google Fonts URL:[](https://fonts.google.com)
-- Awesome URL:[](https://fontawesome.com/icons)
-- Notion URL:[](https://www.notion.so)
+- Google Fonts URL: [Google Fonts](https://fonts.google.com)
+- Awesome URL: [Awesome](https://fontawesome.com/icons)
+- Notion URL: [Notion](https://www.notion.so)
 
 
 ## My process
